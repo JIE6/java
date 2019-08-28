@@ -1,4 +1,4 @@
-package chapter.bbasictype;
+package basictype;
 
 /**
  * 重点

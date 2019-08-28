@@ -1,4 +1,4 @@
-package chapter.bbasictype;
+package basictype;
 
 /**
  * 整数类型默认是int

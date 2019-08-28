@@ -1,4 +1,4 @@
-package chapter.bbasictype;
+package basictype;
 
 /**
  * 浮点类型默认是double类型，如果希望Java 把一个浮点类型值当成float类型处理，应该在这个浮点类型值后紧跟f或F

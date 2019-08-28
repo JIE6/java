@@ -1,4 +1,4 @@
-package chapter.bbasictype;
+package basictype;
 
 /**
  * 当程序中用到的数值位数特别多时，眼睛"看花"了都看不清到底有多少位数。
