@@ -83,6 +83,5 @@ public class AutoConversion {
         // 下面代码中两个int类型整数进行除法运算， 即使无法除尽， 也将得到一个int 类型结果
         // 当两个整数进行除法运算时， 如果不能整除， 得到的结果将是把小数部分截断取整后的整数。
         System.out.println(7 / 5);
-        String str = null;
     }
 }
