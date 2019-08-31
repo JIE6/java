@@ -17,11 +17,16 @@ public class Int {
         System.out.println(java.lang.Integer.MIN_VALUE == iMin);
         System.out.println(java.lang.Integer.MAX_VALUE == iMax);
         // 十进制数字17 分别在2 8 10 16 进制下的表示
+        // 二进制 以0b 或者 0B 开头
+        // 十进制转二进制方法 除二取余
         int iBinaryLowercase = 0b10001;
         int iBinaryUppercase = 0B10001;
+        // 八进制 以0开头
         int iOctal = 021;
-        // 二进制结果 0b10001 转10进制方法 0*2^0 + 0*2^1 + 0*2^2 + 0*2^3 + 1*2^4
+        // 二进制 0b10001 转10进制方法 0*2^0 + 0*2^1 + 0*2^2 + 0*2^3 + 1*2^4
+        // 十进制
         int iDecimal = 17;
+        // 十六进制 以0x或0X开头
         int iHexLowercase = 0x11;
         int iHexUppercase = 0X11;
         System.out.println(iBinaryLowercase);
