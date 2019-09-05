@@ -3,6 +3,13 @@
 
 ### java version - 9.0.4
 
+### 学习顺序(按包名)
+| 学习顺序 | 包名 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 描述 |
+|:----:|:----:|:----|:----|
+| 1 | introduction | 1 | java9介绍(未完成) |
+| 2 | basictype | 5 | 基本类型与运算符 |
+| 3 | processcontrol | 5 | 流程控制与数组(进行中) |
+
 <pre>
 内容覆盖了Java的基本语法结构、
 Java的面向对象特征、
@@ -17,10 +24,3 @@ Java网络通信编程和Java反射机制。
 覆盖了java.lang、java.util、java.text、java.io和java.nio、java.sql、java.awt、javax.swing包下绝大部分类和接口。
 介绍了Java 9的模块化系统，与Java 9的jshell工具、多版本JAR包、匿名内部类的菱形语法、增强的try语句、私有接口方法，以及Java 9新增的各种API功能。
 </pre>
-
-### 学习顺序(按包名)
-| 学习顺序 | 包名 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 描述 |
-|:----:|:----:|:----|:----|
-| 1 | introduction | 1 | java9介绍(未完成) |
-| 2 | basictype | 5 | 基本类型与运算符 |
-| 3 | processcontrol | 5 | 流程控制与数组(进行中) |
