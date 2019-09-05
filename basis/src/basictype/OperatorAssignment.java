@@ -2,7 +2,7 @@ package basictype;
 
 /**
  * 重点
- * 运算符-赋值运算符
+ * 运算符-赋值运算符 与 扩展后的赋值运算符
  * 赋值运算符用于为变量指定变量值，与C类似， Java 也使用=作为赋值运算符。通常，使用赋值运算符将一个直接量值赋给变量。例如如下代码。
  * @author JIE
  */
@@ -39,5 +39,34 @@ public class OperatorAssignment {
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
+
+        /**
+         * 掌握OperatorBitOperator位运算符与OperatorArithmetic算术运算符后再学习扩展后的赋值运算符
+         * 扩展后的赋值运算符
+         * 赋值运算符可与算术运算符、位移运算符结合，扩展成功能更加强大的运算符。扩展后的赋值运算符如下。
+         * +=: 对应 x += y, 即对应 x = x + y;
+         * -=: 对应 x -= y, 即对应 x = x - y;
+         * *=: 对应 x *= y, 即对应 x = x * y;
+         * /=: 对应 x /= y, 即对应 x = x / y;
+         * %=: 对应 x %= y, 即对应 x = x % y;
+         * &=: 对应 x &= y, 即对应 x = x & y;
+         * |=: 对应 x |= y, 即对应 x = x | y;
+         * ^=: 对应 x ^= y, 即对应 x = x ^ y;
+         * <<=: 对应 x <<= y, 即对应 x = x << y;
+         * >>=: 对应 x >>= y, 即对应 x = x >> y;
+         * >>>=: 对应 x >>>= y, 即对应 x = x >>> y;
+         */
+
+        /**
+         * 三目运算符
+         * 三目运算符只有一个 : ?  :  三日运算符的语法格式如下:
+         * (expression) ? if-true-statement : if-false-statement;
+         */
+        int t1 = 5;
+        int t2 = 10;
+        int t3 = (5 < 10) ? t1++ : t2++;
+        System.out.println(t1);
+        System.out.println(t2);
+        System.out.println(t3);
     }
 }
