@@ -25,3 +25,7 @@
 | WhileProcess | 5 | while结构 |
 | DoWhileProcess | 5 | doWhile结构 |
 | ForProcess | 5 | for结构及break，continue，return的用法 |
+| ArrayTypeIntroduction | 5 | 数组类型-介绍 |
+| ArrayType | 5 | 数组类型-使用，foreach循环-介绍与使用 |
+| ArrayTypeGrasp | 5 | 数组类型-深入掌握，栈堆内存介绍， |
+| ArrayTypeNoMultidimensional | 5 | 数组类型-java没有多维数组，没有多维数组，没有多维数组 |
