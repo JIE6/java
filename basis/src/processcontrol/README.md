@@ -29,3 +29,7 @@
 | ArrayType | 5 | 数组类型-使用，foreach循环-介绍与使用 |
 | ArrayTypeGrasp | 5 | 数组类型-深入掌握，栈堆内存介绍， |
 | ArrayTypeNoMultidimensional | 5 | 数组类型-java没有多维数组，没有多维数组，没有多维数组 |
+| ArrayTypeArrays | 5 | 数组类型-Java工具类：Arrays |
+| ArrayType8Arrays | 5 | 数组类型-Java8增强的工具类：Arrays |
+| Board | 2 | 练习-通过数组画一个简单的棋盘并能实现下棋 |
+| Practice | 2 | 练习-使用循环输出九九乘法表,使用循环输出等腰图形 |
