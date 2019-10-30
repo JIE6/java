@@ -8,7 +8,9 @@
 |:----:|:----:|:----|:----|
 | 1 | introduction | 1 | java9介绍(未完成) |
 | 2 | basictype | 5 | 基本类型与运算符 |
-| 3 | processcontrol | 5 | 流程控制与数组(进行中) |
+| 3 | processcontrol | 5 | 流程控制与数组 |
+| 4 | objectone | 5 | 面向对象-上 |
+| 5 | objecttwo | 5 | 面向对象-下(进行中) |
 
 <pre>
 内容覆盖了Java的基本语法结构、
