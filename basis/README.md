@@ -12,6 +12,7 @@
 | 4 | objectone | 5 | 面向对象-上 |
 | 5 | objecttwo | 5 | 面向对象-下 |
 | 6 | library | 5 | java 基础类库 |
+| 7 | collection | 5 | java 集合 |
 
 <pre>
 内容覆盖了Java的基本语法结构、
