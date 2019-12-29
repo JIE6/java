@@ -11,6 +11,7 @@
 | 3 | processcontrol | 5 | 流程控制与数组 |
 | 4 | objectone | 5 | 面向对象-上 |
 | 5 | objecttwo | 5 | 面向对象-下 |
+| 6 | library | 5 | java 基础类库 |
 
 <pre>
 内容覆盖了Java的基本语法结构、
