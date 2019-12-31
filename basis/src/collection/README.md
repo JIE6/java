@@ -50,3 +50,4 @@ Queue 是Java 提供的队列实现，有点类似于List ， 后面章节还会
 | PredicateTest | 5 | 使用Java 8 新增的Predicate 操作集合 |
 | StreamTest | 5 | 使用Java 8 新增的Stream 操作集合 |
 | set | 5 | Set 集合 |
+| list | 5 | List 集合 与 Queue集合 |
