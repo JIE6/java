@@ -52,3 +52,4 @@ Queue 是Java 提供的队列实现，有点类似于List ， 后面章节还会
 | set | 5 | Set 集合 |
 | list | 5 | List 集合 与 Queue集合 |
 | map | 5 | Map 集合 |
+| collections | 5 | 操作集合的工具类: Collections |

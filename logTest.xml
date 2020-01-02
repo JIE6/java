@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-28T14:02:59.520833Z</date>
+  <millis>1577541779520</millis>
+  <nanos>833000</nanos>
+  <sequence>0</sequence>
+  <logger>LoggerTest</logger>
+  <level>FINE</level>
+  <class>library.LoggerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>DEBUG, ......</message>
+</record>
+<record>
+  <date>2019-12-28T14:02:59.551815500Z</date>
+  <millis>1577541779551</millis>
+  <nanos>815500</nanos>
+  <sequence>1</sequence>
+  <logger>LoggerTest</logger>
+  <level>INFO</level>
+  <class>library.LoggerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>INFO, ......</message>
+</record>
+<record>
+  <date>2019-12-28T14:02:59.638765700Z</date>
+  <millis>1577541779638</millis>
+  <nanos>765700</nanos>
+  <sequence>2</sequence>
+  <logger>LoggerTest</logger>
+  <level>SEVERE</level>
+  <class>library.LoggerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>ERROR, ......</message>
+</record>
+</log>
