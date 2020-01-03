@@ -24,3 +24,25 @@ Throwable父类。
 | AccessExceptionMsg | 5 | 访问异常信息 |
 | FinallyTest | 5 | 使用finally 回收资源 |
 | AutoCloseTest | 5 | Java9 增强的自动关闭资源的try 语句 |
+| ThrowsTest | 5 | 使用throws 声明抛出异常 |
+| OverrideThrows | 5 | 方法重写时声明抛出异常的限制 |
+| ThrowTest | 5 | 使用throw 抛出异常 |
+| AuctionException | 5 | 自定义异常类 |
+| AuctionTest | 5 | catch 和throw 同时使用 |
+| NewThrowTest | 5 | Java 7 增强的throw 语句 |
+| SalException | 5 | 异常链 |
+
+
+## Checked 异常和Runtime 异常体系
+<pre>
+    Java 的异常被分为两大类: Checked 异常和 Runtime 异常(运行时异常)。 所有的 RuntimeException
+类及其子类的实例被称为 Runtime 异常；不是 RuntimeException 类及其子类的异常实例则被称为Checked异常
+    只有Java 语言提供了Checked 异常，其他语言都没有提供Checked 异常。Java 认为Checked 异常都是可以
+被处理(修复)的异常，所以Java 程序必须显式处理Checked 异常。如果程序没有处理Checked异常，该程序在编译
+时就会发生错误，无法通过编译。
+    Checked 异常体现了Java 的设计哲学一一没有完善错误处理的代码根本就不会被执行!
+    对于Checked 异常的处理方式有如下两种。
+    1.当前方法明确知道如何处理该异常， 程序应该使用try...catch 块来捕获该异常，然后在对应的catch 块中修复该异常。
+    2.当前方法不知道如何处理这种异常，应该在定义该方法时声明抛出该异常。
+    Runtime 异常则更加灵活， RuntÏme 异常无须显式声明抛出，如果程序需要捕获Runtime 异常，也可以使用try...catch 块来实现.
+</pre>
