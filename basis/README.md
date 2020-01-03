@@ -14,6 +14,7 @@
 | 6 | library | 5 | java 基础类库 |
 | 7 | collection | 5 | java 集合 |
 | 8 | generic | 5 | 泛型 |
+| 9 | throwable | 5 | 异常 |
 
 <pre>
 内容覆盖了Java的基本语法结构、
