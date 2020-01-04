@@ -46,7 +46,7 @@ Entry封装的key, 从java源码来看，Java则是先实现了Map ，然后通�
 是一个古老的、线程安全的集合，因此HashMap 通常比Hashtable 要快。
     TreeMap 通常比HashMap 、Hashtable 要慢( 尤其在插入、删除key-value 对时更慢)，因为TreeMap
 底层采用红黑树来管理key-value 对(红黑树的每个节点就是一个key-value 对) 。
-    使用TreeM叩有一个好处: TreeMap 中的key-value 对总是处于有序状态，无须专门进行排序操作。当TreeMap 
+    使用TreeMap有一个好处: TreeMap 中的key-value 对总是处于有序状态，无须专门进行排序操作。当TreeMap 
 被填充之后，就可以调用keySet() ，取得由key 组成的Set，然后使用toArray()方法生成key的数组，接下来使用Arrays 
 的binarySearch()方法在己排序的数组中快速地查询对象。
     对于一般的应用场景， 程序应该多考虑使用HashMap ，因为HashMap 正是为快速查询设计的(HashMap 底层其实也是
