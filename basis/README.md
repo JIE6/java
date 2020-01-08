@@ -16,6 +16,7 @@
 | 8 | generic | 5 | 泛型 |
 | 9 | throwable | 5 | 异常 |
 | 9 | jdbc | 5 | 数据库与JDBC编程 |
+| 10 | annotation | 5 | 注解 |
 
 <pre>
 内容覆盖了Java的基本语法结构、
