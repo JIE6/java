@@ -42,8 +42,8 @@ Queue 是Java 提供的队列实现，有点类似于List ， 后面章节还会
 和HashMap 、TreeMap 等实现类。
 </pre>
 
-## 当前包下需重点掌握的类
-| 类名 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
+## 当前包下需重点掌握的知识点
+| 位置 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
 |:----:|:----:|:----:|
 | CollectionTest | 5 | Collection 介绍 |
 | CollectionTraversalTest | 5 | 遍历 Collection 集合 |

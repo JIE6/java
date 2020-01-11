@@ -6,8 +6,8 @@
 索引，例如第一次添加的元素索引为0 ， 第二次添加的元素索引为l ……
 </pre>
 
-## 当前包下需重点掌握的类
-| 类名 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
+## 当前包下需重点掌握的知识点
+| 位置 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
 |:----:|:----:|:----:|
 | ListTest | 5 | Java8 改进的List 接口和ListIterator 接口 |
 | ArrayListAndVector | 5 | ArrayList 和Vector 实现类介绍 与 固定长度的List |

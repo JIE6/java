@@ -14,8 +14,8 @@ Java 也增加了对正则表达式的支持，包括新增的Pattern 和Matcher
 就可调用getStringO方法来取出指定key 所对应的消息字符串。
 </pre>
 
-## 当前包下需重点掌握的类
-| 类名 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
+## 当前包下需重点掌握的知识点
+| 位置 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
 |:----:|:----:|:----:|
 | ArgsTest | 5 | 运行Java 程序的参数 |
 | ScannerKeyBoardTest | 5 | 使用Scanner 获取键盘输入 |

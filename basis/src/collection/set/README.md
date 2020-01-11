@@ -12,8 +12,8 @@
 只是三个实现类还各有特色。
 </pre>
 
-## 当前包下需重点掌握的类
-| 类名 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
+## 当前包下需重点掌握的知识点
+| 位置 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
 |:----:|:----:|:----:|
 | HashSetTest | 5 | HashSet 类 |
 | LinkedHashSetTest | 5 | LinkedHashSet 类 |

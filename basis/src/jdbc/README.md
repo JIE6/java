@@ -14,8 +14,8 @@
 利用JDBC API 进行事务控制。
 </pre>
 
-## 当前包下需重点掌握的类
-| 类名 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
+## 当前包下需重点掌握的知识点
+| 位置 | 重要等级(1 ~ 5)<small>数字越大等级越高</small> | 简述 |
 |:----:|:----:|:----:|
 | ConnMySql | 5 | JDBC 编程步骤 |
 | ExecuteDDLAndDML | 5 | 使用Java 8 新增的executeLargeUpdate 方法执行DDL和DML 语句 |
