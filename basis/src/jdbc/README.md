@@ -21,11 +21,11 @@
 | ExecuteDDLAndDML | 5 | 使用Java 8 新增的executeLargeUpdate 方法执行DDL和DML 语句 |
 | PreparedStatementTest | 5 | 使用PreparedStatement 执行SQL 语句 |
 | CallableStatementTest | 5 | 使用CallableStatement 调用存储过程 |
-| 当前位置下第206-行 | 5 | 事务的概念和MySQL 事务支持 |
+| 当前位置下第206行 | 5 | 事务的概念和MySQL 事务支持 |
 | TransactionTest | 5 | JDBC 的事务支持 |
 | BatchTest | 5 | Java8 增强的批量更新 |
 | DatabaseMetaDataTest | 5 | 分析数据库信息 |
-| 当前位置下第264-行 | 5 | 使用连接池管理连接 |
+| 当前位置下第264行 | 5 | 使用连接池管理连接 |
 
 
 ### JDBC 基础
